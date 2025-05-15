@@ -106,6 +106,15 @@ Thanks to Dr. Vibhor Kumar for guidance, colleagues Shashank Shekhar Pathak and 
 - [Babak Ehteshami Bejnordi et al., JAMA, 2017](https://doi.org/10.1001/jama.2017.14585)
 - And others as listed in the report.
 
+---
+
+## Contact
+**Anand Kumar**  
+M.Tech Student, Computer Science & Engineering  
+Indraprastha Institute of Information Technology Delhi  
+Email: [anand23111@iiitd.ac.in](mailto:anand23111@iiitd.ac.in)
+
+---
 
 
 *This README was generated based on the capstone report submitted on August 12, 2024.*
